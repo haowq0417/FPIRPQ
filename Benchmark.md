@@ -1,4 +1,4 @@
-# The benchmark queries used for PAIRPQ
+# The benchmark queries used for FPIRPQ
 
 The prefixes used:
 
@@ -11,7 +11,7 @@ PREFIX dbo: <http://dbpedia.org/ontology/>
 
 ## 1. LUBM data sets
 
-The 8 benchmark queries for PAIRPQ on [LUBM](http://swat.cse.lehigh.edu/projects/lubm/):
+The 12 benchmark queries for PAIRPQ on [LUBM](http://swat.cse.lehigh.edu/projects/lubm/):
 
 
 ### Q1
@@ -115,7 +115,7 @@ SELECT * WHERE {
 
 ## 2. DBpedia data sets
 
-The 8 benchmark queries for PAIRPQ on [DBpedia](https://www.dbpedia.org/):
+The 12 benchmark queries for PAIRPQ on [DBpedia](https://www.dbpedia.org/):
 
 ### Q1
 
